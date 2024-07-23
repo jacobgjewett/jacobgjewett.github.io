@@ -1,89 +1,70 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jacob Jewett's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Jacob Jewett
+Bachelor of Science in Accounting
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="www.linkedin.com/in/jacobgjewett">www.linkedin.com/in/jacobgjewett</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`July 2024`
+__Bachelor of Science in Accounting__
+_Brigham Young University–Idaho_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+-	GPA: 3.63
+-	Major GPA: 3.66 
+-   Student Accounting Society Mentorship Officer   
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`April 2023-Current`
+__Accounting Specialist__
+_City of Rexburg_
 
-- Fellow
+-   Wrote VBA programs saving as much as 15-20 minutes on many recurring reports
+-   Improved general journal entry redundancy by developing journal import functionality
+-   Aided in the transition from internal reports to Power BI developing valuable reports
 
+`June 2023-Current`
+__Co-Owner__
+_South Fork Fly Rods LLC_
+-   Created and manage detailed excel general ledger and reconciliation process
+-   Developed detailed production process to ensure product quality
 
+`April 2022-April 2023`
+__Tutor-Intermediate Financial Accounting I__
+_Brigham Young University-Idaho_
+-   Built students’ confidence through one-on-one target focused appointments, resulting in increased test scores
+-   Identified students individual learning methods to tailor sessions to their needs
+-   Focused on comprehension through various teaching and retention methods
 
-## Awards
+`January 2022-April 2022`
+__Assurance Intern__
+_WSRP LLC_
+-   Gained understanding and technical experience with Excel and other audit programs
+-   Regularly drafted financial statements and letters to management 
+-   Worked effectively in small team settings to audit companies with up to $45 million in revenue
 
-`2012`
-President, *Royal Society*, London, UK
+## Leadership & Service
 
-Associate, *French Academy of Science*, Paris, France
+`September 2017-September 2019`
+__Full-Time Volunteer Representative__
+_The Church of Jesus Christ of Latter-Day Saints_
+-   Coordinated efforts of groups of 5-25 volunteers over many cities
+-   Conducted regular 30 minute to one-hour trainings including counsel setting meetings
 
+__Eagle Scout__
 
+## Skills & Interests
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+-   Knowledgeable in: Excel VBA, Power BI, Tableau, QuickBooks Online
+-   Interests: fly fishing, football, skiing, hiking
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2024 -->
